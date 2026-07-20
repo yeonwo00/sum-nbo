@@ -22,5 +22,3 @@ Expected output:
 ```text
 1000(0x000003e8) + 500(0x000001f4) + 200(0x000000c8) = 1700(0x000006a4)
 ```
-
-실행 데모는 [`sum-nbo-demo.avi`](sum-nbo-demo.avi)에서 확인할 수 있습니다.
